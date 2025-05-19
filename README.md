@@ -1,7 +1,11 @@
+# Attention-Guided Wavelet Aware Few-Shot Back Recognition
+> 注意力引导与小波感知的小样本背影识别方法
+
 ## File Descriptor
 
 
 ### Datasets to test your model
+
 
 
 
